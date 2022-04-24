@@ -13,7 +13,7 @@ Children oftenly hard to understand geometric objects, from their characteristic
 
 ### How to Use 💻
 1. Download the .zip file and extract it
-2. Open and Run the .swiftpm file in Ipad Playgrounds app, preferably in Portrait Orientation
+2. Open and Run the .swiftpm file in Ipad Playgrounds app, preferably in Portrait Orientation, accept the camera permission
 3. Choose the 3D Objects you want to view
 4. Use X button to cancel, use the eye button to confirm and view the object
 5. Don't forget to see detail and explanation in ? button
@@ -21,6 +21,6 @@ Children oftenly hard to understand geometric objects, from their characteristic
 7. Delete the 3D object by a long press gesture on it
 
 ### Troubleshooting ⚙️
-Sometimes the 3D Objects need time to appear, make sure you have good lighting. If this problem persists, you can restart the App.
+Sometimes the 3D Objects need time to appear, make sure you have good lighting. If this problem persists, you can restart the App. In the first start it may crash, but you can restart it
 
 Ask more to my Email anakagungdavin@gmail.com
