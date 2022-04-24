@@ -23,3 +23,4 @@ Children oftenly hard to understand geometric objects, from their characteristic
 ### Troubleshooting ⚙️
 Sometimes the 3D Objects need time to appear, make sure you have good lighting. If this problem persists, you can restart the App.
 
+Ask more to my Email anakagungdavin@gmail.com
